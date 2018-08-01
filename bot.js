@@ -8,10 +8,10 @@ console.log("Welcome Again !");
   return channel.send(` 
 **
 سلام عليكم يا قلبي 
-سيرفر جيب ناس تاخد حسابات فل اكسس انا مجربه 
+سيرفر جيب ناس تاخد حسابات فل اكسس ماين كرافت انا مجربه 
 وعشان عما قريب نفتح سيرفر سيرفايفل في ماين كرافت
 خلكم جاهزين
-                               [ https://discord.gg/JjRyWyK ] 
+                               [ https://discord.gg/7Rd3yPr ] 
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`)
 }).catch(console.error)
@@ -21,10 +21,10 @@ client.on("guildMemberAdd", member => {
   return channel.send(` 
 **
 سلام عليكم يا قلبي 
-سيرفر جيب ناس تاخد حسابات فل اكسس انا مجربه 
+سيرفر جيب ناس تاخد حسابات فل اكسس ماينكرافت انا مجربه 
 وعشان عما قريب نفتح سيرفر سيرفايفل في ماين كرافت
 خلكم جاهزين
-                               [ https://discord.gg/JjRyWyK ] 
+                               [ https://discord.gg/7Rd3yPr ] 
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`) 
 }).catch(console.error)
