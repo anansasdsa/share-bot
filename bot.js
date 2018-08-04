@@ -6,12 +6,9 @@ console.log("Welcome Again !");
  client.on("guildMemberRemove", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
-**
-سلام عليكم يا قلبي 
-سيرفر جيب ناس تاخد حسابات فل اكسس ماين كرافت انا مجربه 
-وعشان عما قريب نفتح سيرفر سيرفايفل في ماين كرافت
-خلكم جاهزين
-                               [ https://discord.gg/7Rd3yPr ] 
+**الحقق ضيف ناس وخذ رتبه في هايبكسل
+وحسابات ماين كرافت . ودسكورد نيترو
+https://discord.gg/EMCdxeJ 
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`)
 }).catch(console.error)
@@ -19,12 +16,9 @@ console.log("Welcome Again !");
 client.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
-**
-سلام عليكم يا قلبي 
-سيرفر جيب ناس تاخد حسابات فل اكسس ماينكرافت انا مجربه 
-وعشان عما قريب نفتح سيرفر سيرفايفل في ماين كرافت
-خلكم جاهزين
-                               [ https://discord.gg/7Rd3yPr ] 
+**الحقق ضيف ناس وخذ رتبه في هايبكسل
+وحسابات ماين كرافت . ودسكورد نيترو
+https://discord.gg/EMCdxeJ
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`) 
 }).catch(console.error)
